@@ -29,7 +29,6 @@ namespace Tyuiu.KalimullinaAH.Sprint3.Task0.V6
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
-
             int startValue = 1;
             int stopValue = 15;
             Console.WriteLine($" Старт шага  = {startValue}.\n Конец шага = {stopValue}. ");
