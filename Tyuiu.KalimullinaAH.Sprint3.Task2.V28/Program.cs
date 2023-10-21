@@ -21,7 +21,7 @@ namespace Tyuiu.KalimullinaAH.Sprint3.Task2.V28
             Console.WriteLine("* Выполнила: Калимуллина Алина Халимовна | ИИПб-23-1                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Написать программу используя цикл do.. while, которая вычисляет         *");
+            Console.WriteLine("* Написать программу используя цикл do...while, которая вычисляет         *");
             Console.WriteLine("* произведение ряда по формуле,                                           *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
@@ -39,7 +39,7 @@ namespace Tyuiu.KalimullinaAH.Sprint3.Task2.V28
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine("Произведение ряда = " + ds.GetMultiplySeries( startValue, stopValue));
+            Console.WriteLine("Произведение ряда = " + ds.GetMultiplySeries(startValue, stopValue));
 
             Console.ReadKey();
         }
